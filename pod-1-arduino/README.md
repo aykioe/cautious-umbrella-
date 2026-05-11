@@ -4,7 +4,7 @@ Reads temperature/humidity, light/UV, and soil moisture. Outputs data over Seria
 
 ## Hardware
 - Arduino Uno or Nano
-- DHT22 (Temp/Humidity) — Pin 2
+- DS18B20 (Temp/Humidity) — Pin 2
 - BH1750 (Light) — I2C (SDA/SCL)
 - Capacitive Soil Moisture Sensor — A0
 
