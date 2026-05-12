@@ -79,7 +79,7 @@ Both pods share a single enclosure. The box is divided internally into two compa
 
 Based on component footprints, a minimum internal size of **160 × 80 × 50 mm** is recommended.
 A standard **Hammond 1591XXFLBK** (171 × 121 × 55 mm) or equivalent ABS project box gives comfortable clearance for both compartments plus cable routing.
-
+"Mustafa pls make sure its not smaller then this"
 ---
 
 ## Wiring Notes for Box Assembly
