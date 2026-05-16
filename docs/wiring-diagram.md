@@ -4,7 +4,7 @@
 
 | Pin | Connected To | Function |
 |-----|-------------|----------|
-| 3.3V | AS7341 VIN | Spectral sensor power |
+| 3.3V | AS7341 VCC | Spectral sensor power |
 | 5V | MAX485-SOIL VCC, MAX485-BUS VCC | RS485 module power |
 | GND | All GND rails | Common ground |
 | A4 (SDA) | AS7341 SDA | I2C data |
