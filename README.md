@@ -2,7 +2,7 @@ Filum_Vitae — Code Explainer
 
 
 
-This document explains every part of both Root Flow sketches in plain English.
+This document explains every part of both POD sketches in plain English.
 
 No prior programming knowledge is assumed. Each section maps directly to a
 
@@ -18,7 +18,7 @@ labelled block in the code files so you can find the matching lines easily.
 
 
 
-Root Flow uses two separate devices.
+Filum Vitae uses two separate devices.
 
 
 
