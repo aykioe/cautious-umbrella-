@@ -1,7 +1,5 @@
 # Pod 1 — Arduino Nano (Soil Pod)
 
-Reads the ALOUTSNOC RS485 Modbus soil probe and the AS7341 spectral sensor, then transmits all readings to Pod 2 over the inter-pod RS485 bus.
-
 ## Hardware
 - Arduino Nano (ATmega328P)
 - ALOUTSNOC RS485 Modbus Soil Sensor (moisture, temp, EC, pH) — SoftwareSerial via MAX485
