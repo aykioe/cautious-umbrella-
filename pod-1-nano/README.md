@@ -4,7 +4,8 @@
 - Arduino Nano (ATmega328P)
 - ALOUTSNOC RS485 Modbus Soil Sensor (moisture, temp, EC, pH) — SoftwareSerial via MAX485
 - waterproof DS18B20 probe
-- TCS34725 RGB Light Sensor Breakout 
+- TCS34725 RGB Light Sensor Breakout
+- Capacitive Soil Moisture Sensor v1.2
 - AS7341 11-Channel Spectral Sensor — I2C (A4=SDA, A5=SCL)
 - MAX485-SOIL module — SoftwareSerial (D5=RO, D6=DI, D3=DE/RE)
 - MAX485-BUS module — HardwareSerial (D0=RX, D1=TX, D2=DE/RE)
